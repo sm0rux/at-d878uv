@@ -1,0 +1,4 @@
+"No.","Scan List Name","Scan Channel Member","Scan Mode","Priority Channel Select","Priority Channel 1","Priority Channel 2","Revert Channel","Look Back Time A[s]","Look Back Time B[s]","Dropout Delay Time[s]","Dwell Time[s]"
+"1","Hagsatra","SM0RUX/R FM U|openSPOT DV U","Off","Off","Off","Off","Selected","2.0","3.0","3.1","3.1"
+"2","Taby","openSPOT DV U","Off","Off","Off","Off","Selected","2.0","3.0","3.1","3.1"
+"3","SM0","SM0RUX/R FM U|openSPOT DV U|Anrop FM V|Anrop FM U|Anrop DV V|Anrop DV U|Kista DV V|Vastberga FM V|Botkyrka DV V|Brottby FM V|Tullinge FM V|Kista FM V|Haninge FM V|Norrtalje FM V|Sodertalje DV V|Nynashamn FM V|Stockholm FM V|Solna FM V|Sthlm Norr FM V","Off","Off","Off","Off","Selected","2.0","3.0","3.1","3.1"
