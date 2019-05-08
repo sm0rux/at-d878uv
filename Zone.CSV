@@ -1,4 +1,4 @@
 "No.","Zone Name","Zone Channel Member","A Channel","B Channel"
-"1","Hagsatra","SM0RUX/R FM U|openSPOT DV U|145.225|Anrop FM V|Anrop FM U|Anrop DV V|Anrop DV U","SM0RUX/R FM U","openSPOT DV U"
-"2","Taby","Taby 1 FM U|Taby 2 FM U|openSPOT DV U|145.225|Anrop FM V|Anrop FM U|Anrop DV V|Anrop DV U","Taby 1 FM U","Taby 2 FM U"
-"3","SM0","Vastberga FM V|Botkyrka DV V|Brottby FM V|Tullinge FM V|Kista FM V|Haninge FM V|Norrtalje FM V|Sodertalje DV V|Nynashamn FM V|Stockholm FM V|Solna FM V|Sthlm Norr FM V|Taby 1 FM U|Taby 2 FM U|SM0RUX/R FM U|openSPOT DV U|145.225|Anrop FM V|Anrop FM U|Anrop DV V|Anrop DV U|Kista DV V","Vastberga FM V","Botkyrka DV V"
+"1","Hagsatra","SM0RUX/R|openSPOT|145.225|145.500|433.500|145.375|433.450","SM0RUX/R","openSPOT"
+"2","Taby","Taby 1|Taby 2|openSPOT|145.225|145.500|433.500|145.375|433.450","Taby 1","Taby 2"
+"3","SM0","Arlanda|Botkyrka 1|Botkyrka 2|Brottby 1|Brottby 2|Dalaro|Djuro|Haninge 1|Haninge 2|Haninge 3|Kista 1|Kista 2|Kista 3|Kista 4|Kista 5|Kista 6|Morko|Norrtalje 1|Norrtalje 2|Nynashamn 1|Nynashamn 2|Rimbo|Sigtuna|Soder|Soderort|Sodertalje 1|Sodertalje 2|Sodertorn|Solna 1|Solna 2|Stockholm 1|Stockholm 2|Stockholm Norr|Taby 1|Taby 2|Tullinge|Tyreso|Upplands Vasby 1|Upplands Vasby 2|Vallentuna|Varmdo|Vastberga 1|Vastberga 2","Arlanda","Botkyrka 1"
