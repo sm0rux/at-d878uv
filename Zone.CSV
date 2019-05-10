@@ -1,5 +1,6 @@
 "No.","Zone Name","Zone Channel Member","A Channel","B Channel"
-"1","Hagsatra","SM0RUX/R|openSPOT|145.225|145.500|433.500|145.375|433.450","openSPOT","openSPOT"
+"1","Hagsatra","SM0RUX/R|openSPOT|145.225|145.500|433.500|145.375|433.450","SM0RUX/R","openSPOT"
 "2","Taby","Taby 1|Taby 2|openSPOT|145.225|145.500|433.500|145.375|433.450","Taby 1","Taby 2"
-"3","SM0","Arlanda|Botkyrka 1|Botkyrka 2|Brottby 1|Brottby 2|Dalaro|Djuro|Haninge 1|Haninge 2|Haninge 3|Kista 1|Kista 2|Kista 3|Kista 4|Kista 5|Kista 6|Morko|Norrtalje 1|Norrtalje 2|Nynashamn 1|Nynashamn 2|Rimbo|Sigtuna|Soder|Soderort|Sodertalje 1|Sodertalje 2|Sodertorn|Solna 1|Solna 2|Stockholm 1|Stockholm 2|Stockholm Norr|Taby 1|Taby 2|Tullinge|Tyreso|Upplands Vasby 1|Upplands Vasby 2|Vallentuna|Varmdo|Vastberga 1|Vastberga 2","Vastberga 2","Botkyrka 1"
+"3","SM0","Arlanda|Botkyrka 1|Botkyrka 2|Brottby 1|Brottby 2|Dalaro|Djuro|Haninge 1|Haninge 2|Haninge 3|Kista 1|Kista 2|Kista 3|Kista 4|Kista 5|Kista 6|Morko|Norrtalje 1|Norrtalje 2|Nynashamn 1|Nynashamn 2|Rimbo|Sigtuna|Soder|Soderort|Sodertalje 1|Sodertalje 2|Sodertorn|Solna 1|Solna 2|Stockholm 1|Stockholm 2|Stockholm Norr|Taby 1|Taby 2|Tullinge|Tyreso|Upplands Vasby 1|Upplands Vasby 2|Vallentuna|Varmdo|Vastberga 1|Vastberga 2","Arlanda","Botkyrka 1"
 "4","SM1","Slite","Slite","Slite"
+"5","SM2","Alvsbyn|Arjeplog|Jörn|Kalix 1|Kalix 2|Kalix 3|Kiruna 1|Kiruna 2|Kiruna 3|Kristineberg|Lulea 1|Lulea 2|Lycksele 1|Lycksele 2|Nordmaling|Pitea 1|Pitea 2|Seskaro|Skelleftea|Sorsele|Storuman 1|Storuman 2|Tarnaby|Umea 1|Umea 2|Vindeln|Vannas 1|Vannas 2","Alvsbyn","Arjeplog"
