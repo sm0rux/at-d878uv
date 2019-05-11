@@ -14,6 +14,6 @@ I will add repeaters in
 
 I will also make individual zones for each Swedish call area.
 
-Maybe I then go on DMR repeaters in OZ, LA and OH/OH0. Maybe you want to help me?
+Maybe I then add DMR repeaters in OZ, LA and OH/OH0. Maybe you want to help me?
 
 73's de SM0RUX Pontus
