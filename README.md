@@ -2,11 +2,10 @@
 
 This is the code plug to my Anytone AT-D878UV. I use CPS version 1.12 and firmware 1.12.
 
-DMR and FM repeaters in call area SM1, SM2, SM3, SM4 and SM0 is included so far. Also D-STAR/FM duo mode repeaters are included in FM mode if I have information they use sub tone on their TX.
+DMR and FM repeaters in call area SM1, SM2, SM3, SM4, SM5 and SM0 is included so far. Also D-STAR/FM duo mode repeaters are included in FM mode if I have information they use sub tone on their TX.
 
 Road map:
 I will add repeaters in
-* SM5 call area
 * SM6 call area
 * SM7 call area
 
