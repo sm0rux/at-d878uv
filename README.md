@@ -20,4 +20,3 @@ Maybe I will add DMR repeaters in OZ, LA and OH/OH0. Maybe you want to help me?
 
 73's de SM0RUX Pontus
 
-Test
