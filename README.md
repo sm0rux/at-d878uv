@@ -19,3 +19,5 @@ DMR and FM repeaters in Sweden is included so far. Also D-STAR/FM duo mode repea
 Maybe I will add DMR repeaters in OZ, LA and OH/OH0. Maybe you want to help me?
 
 73's de SM0RUX Pontus
+
+2019-05-13
