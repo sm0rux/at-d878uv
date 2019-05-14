@@ -16,6 +16,10 @@ DMR and FM repeaters in Sweden is included so far. Also D-STAR/FM duo mode repea
 
 Added RoamingChannel and RoamingZone files for Sweden.
 
+### What you have to do
+
+In case you want to use my files you basically just have to change the DMR-ID in RadioIDList.CSV to your DMR-ID.
+
 ## Road map
 
 Maybe I will add DMR repeaters in OZ, LA and OH/OH0. Maybe you want to help me?
