@@ -18,7 +18,7 @@ Added RoamingChannel and RoamingZone files for Sweden.
 
 ### What you have to do
 
-In case you want to use my files you basically just have to change the DMR-ID in RadioIDList.CSV to your DMR-ID.
+In case you want to use my files you basically just have to change the DMR-ID in RadioIDList.CSV to your DMR-ID. Also change to your callsign in APRS.CSV.
 
 ## Road map
 
