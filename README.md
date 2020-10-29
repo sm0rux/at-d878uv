@@ -2,13 +2,13 @@
 
 ## Copyright
 
-© 2019-2020 SM0RUX Pontus Falk
+© 2019 SM0RUX Pontus Falk
 
 These files are published under GPLv3 Licenses.
 
 ## Purpose
 
-This is the code plug to my Anytone AT-D878UV. I use CPS version 1.18 and firmware 1.18. The main purpose to publish these files online is to make it easy for me to make updates. In case you want to contribute, feel free to make pull request and/or forks from my work.
+This is the code plug to my Anytone AT-D878UV. I use CPS version 1.16 and firmware 1.16. The main purpose to publish these files online is to make it easy for me to make updates. In case you want to contribute, feel free to make pull request and/or forks from my work.
 
 ## What is included?
 
