@@ -2,7 +2,7 @@
 
 ## Copyright
 
-© 2019 SM0RUX Pontus Falk
+© 2019-2020 by SM0RUX Pontus Falk
 
 These files are published under GPLv3 Licenses.
 
