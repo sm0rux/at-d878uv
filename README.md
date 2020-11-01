@@ -18,11 +18,7 @@ Added RoamingChannel and RoamingZone files for Sweden.
 
 ### What you have to do
 
-In case you want to use my files you basically just have to change the DMR-ID in RadioIDList.CSV to your DMR-ID.
-
-## Road map
-
-Maybe I will add DMR repeaters in OZ, LA and OH/OH0. Maybe you want to help me?
+In case you want to use my files you basically just have to change the DMR-ID in RadioIDList.CSV to your DMR-ID and your APRS settings in APRS.CSV.
 
 73's de SM0RUX Pontus
 
