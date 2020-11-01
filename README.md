@@ -20,6 +20,12 @@ DMR-repeatrarna är också indelade i roaming-zoner för att få roamingen att f
 
 ## Vad du måste göra!
 
+### Vilka filer ska du hämta?
+
+Jag rekommenderar att du hämtar filerna som jag har packat ihop i en [release](https://github.com/sm0rux/at-d878uv/releases) istället för att hämta mina arbetsfiler!
+
+### När filerna är hämtade... 
+
 Om du vill använda mina filer så behöver du i princip bara ändra DMR-ID i RadioIDList.CSV och APRS-inställningarna i APRS.CSV - sedan är det bara att tuta och köra.
 
 Förmodligen vill du ändra på fler saker, men det överlåter jag till dig att fixa med själv.
