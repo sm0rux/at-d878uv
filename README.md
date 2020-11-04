@@ -1,29 +1,35 @@
-﻿# Anytone AT-D878UV Code Plug
+﻿# Min kodplugg till Anytone AT-D878UV
 
 ## Copyright
 
 © 2019-2020 by SM0RUX Pontus Falk
 
-These files are published under GPLv3 Licenses.
+Filerna är tillgängliga under [GPLv3](https://github.com/sm0rux/at-d878uv/blob/master/LICENSE).
 
-## Purpose
+## Syfte
 
-This is the code plug to my Anytone AT-D878UV. I use CPS version 1.21 and firmware 1.21. The main purpose to publish these files online is to make it easy for me to make updates. In case you want to contribute, feel free to make pull request and/or forks from my work.
+Det här är min kodplugg till min Anytone AT-D878UV. Jag använder CPS version 1.21 och firmware 1.21. Huvudsyftet med publiceringen av filerna här på GitHub är att förenkla för mig själv när det gäller uppdateringar. Jag har inget emot att dela med mig av filerna så att andra kan nyttja dem under förutsättning att de som återanvänder mina filer följer licensvillkoren i [GPLv3](https://github.com/sm0rux/at-d878uv/blob/master/LICENSE).
 
-## What is included?
+Om du vill bidra med något så är du naturligtvis välkommen att göra så antingen genom att skapa en Pull Request (kräver en del kunskap om hur GitHub funkar) eller genom att skapa ett [issue](https://github.com/sm0rux/at-d878uv/issues).
 
-DMR and FM repeaters in Sweden is included so far. Also D-STAR/FM duo mode repeaters are included in FM mode if I have information they use sub tone on their TX. I will also make individual zones for each Swedish call area.
+## Vad ingår i filerna?
 
-Added RoamingChannel and RoamingZone files for Sweden.
+Alla repeatrar i Sverige som kan köra DMR eller FM är inkluderade (källa: [sk6ba.se](https://sk6ba.se/repeater/karta/)). Även repeatrar som kör exempelvis C4FM och FM finns med. Repeatrarna är indelade distriksvis. Tyvärr finns det så många repeatrar i sjätte distriktet att alla inte får plats i scanning-listan.
 
-### What you have to do
+DMR-repeatrarna är också indelade i roaming-zoner för att få roamingen att funka på ett smidigt sätt.
 
-In case you want to use my files you basically just have to change the DMR-ID in RadioIDList.CSV to your DMR-ID.
+## Vad du måste göra!
 
-## Road map
+### Vilka filer ska du hämta?
 
-Maybe I will add DMR repeaters in OZ, LA and OH/OH0. Maybe you want to help me?
+Jag rekommenderar att du hämtar filerna som jag har packat ihop i en [release](https://github.com/sm0rux/at-d878uv/releases) istället för att hämta mina arbetsfiler!
+
+### När filerna är hämtade... 
+
+Om du vill använda mina filer så behöver du i princip bara ändra DMR-ID i RadioIDList.CSV och APRS-inställningarna i APRS.CSV - sedan är det bara att tuta och köra.
+
+Förmodligen vill du ändra på fler saker, men det överlåter jag till dig att fixa med själv.
 
 73's de SM0RUX Pontus
 
-2020-10-31
+2020-11-01
