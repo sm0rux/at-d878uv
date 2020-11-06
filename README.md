@@ -1,4 +1,4 @@
-﻿# Min kodplugg till Anytone AT-D878UV
+# Min kodplugg till Anytone AT-D878UV
 
 ## Copyright
 
