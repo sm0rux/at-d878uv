@@ -4,6 +4,6 @@
 * [SM0RGM Stefan](https://github.com/sm0rgm)
 * SM6XGP Tony
 
-Har jag glömt någon? Feel free att skapa en Pull Request.
+Har jag glömt någon? Feel free att skapa en Pull Request eller ett issue!
 
 73's de SM0RUX Pontus
