@@ -18,6 +18,7 @@ eller
 
 ## Följande har bidragit till detta repository
 
+* SA0BMC Johan
 * [SA7TOR Tord](https://github.com/SA7TOR)
 * [SM0RGM Stefan](https://github.com/sm0rgm)
 * SM6XGP Tony
