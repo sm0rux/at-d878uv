@@ -23,7 +23,7 @@ eller
 * [SA7TOR Tord](https://github.com/SA7TOR)
 * [SM0RGM Stefan](https://github.com/sm0rgm)
 * SM6XGP Tony
-* SM6IKJ Ronny
+* SM7IKJ Ronny
 
 Har jag glömt någon? Feel free att skapa en Pull Request eller ett issue!
 
