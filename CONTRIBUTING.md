@@ -22,7 +22,7 @@ eller
 * [SA7SSE Simon](https://github.com/simonvik)
 * [SA7TOR Tord](https://github.com/SA7TOR)
 * [SM0RGM Stefan](https://github.com/sm0rgm)
-* [SM6GXQ Peter](https://github.com/sm5gxq)
+* [SM5GXQ Peter](https://github.com/sm5gxq)
 * [SM6WKB Peter](https://github.com/Ubsurb)
 * SM6XGP Tony
 * SM7IKJ Ronny
