@@ -23,9 +23,9 @@ eller
 * [SA7TOR Tord](https://github.com/SA7TOR)
 * [SM0RGM Stefan](https://github.com/sm0rgm)
 * [SM5GXQ Peter](https://github.com/sm5gxq)
-* [SM6TZL Dan](https://sk6ba.se/repeater/karta/)
+* [SM6TZL Dan](https://sk6ba.se/repeater/karta)
 * [SM6WKB Peter](https://github.com/Ubsurb)
-* SM6XGP Tony
+* [SM6XGP Tony](https://github.com/SM6XGP)
 * SM7IKJ Ronny
 
 Har jag glömt någon? Feel free att skapa en Pull Request eller ett issue!
