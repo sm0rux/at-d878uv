@@ -8,7 +8,7 @@ Filerna är tillgängliga under [GPLv3](https://github.com/sm0rux/at-d878uv/blob
 
 ## Syfte
 
-Det här är min kodplugg till min Anytone AT-D878UV. Jag använder CPS version 1.22 och firmware 1.22. Huvudsyftet med publiceringen av filerna här på GitHub är att förenkla för mig själv när det gäller uppdateringar. Jag har inget emot att dela med mig av filerna så att andra kan nyttja dem under förutsättning att de som återanvänder mina filer följer licensvillkoren i [GPLv3](https://github.com/sm0rux/at-d878uv/blob/master/LICENSE).
+Det här är min kodplugg till min Anytone AT-D878UV. Jag använder CPS version 1.23 och firmware 1.23. Huvudsyftet med publiceringen av filerna här på GitHub är att förenkla för mig själv när det gäller uppdateringar. Jag har inget emot att dela med mig av filerna så att andra kan nyttja dem under förutsättning att de som återanvänder mina filer följer licensvillkoren i [GPLv3](https://github.com/sm0rux/at-d878uv/blob/master/LICENSE).
 
 Om du vill bidra med något så är du naturligtvis välkommen att göra så antingen genom att skapa en Pull Request (kräver en del kunskap om hur GitHub funkar) eller genom att skapa ett [issue](https://github.com/sm0rux/at-d878uv/issues).
 
